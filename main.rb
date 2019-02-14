@@ -1,4 +1,5 @@
 ###some code
+###new comment on master branch
 require 'colorize'
 
  def puts_git(cmd)
